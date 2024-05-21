@@ -29,6 +29,7 @@
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Car-Lopes&repo=dio-lab-open-source&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)](https://github.com/LarissaSilvaFernandes)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LarissaSilvaFernandes&repo=GH4Woman-modulo1&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)](https://github.com/LarissaSilvaFernandes/GH4Woman-modulo1)
 
 ## Meus status do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaSilvaFernandes&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)

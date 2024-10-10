@@ -13,7 +13,9 @@
 <a href="https://twitter.com/LFernandes1313" target="_blank"><img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"></a>
 <a href="https://cursos.alura.com.br/emprega-one/profile/l-fernandes0308" target="_blank"><img align="center" alt="ALURA" src="https://img.shields.io/badge/MEU PERFIL NA ALURA-000?style=for-the-badge&logo=gitbook&logoColor=30A3DC"></a>
 <a href="https://www.dio.me/users/l_fernandes0308" target="_blank"><img align="center" src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo=gitbook&logoColor=30A3DC" alt="Perfil DIO">
+<a href="https://g.dev/larissafernandes" target="_blank"><img align="center" alt="GOOGLE" src="https://img.shields.io/badge/-Google%20For%20Developers-000?style=for-the-badge&logo=google&logoColor=30A3DC">
 </a>
+   
 
 ## Habilidades
 ### Principais Habilidades:

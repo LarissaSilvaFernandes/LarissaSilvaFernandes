@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ##  Sobre mim
-<h3> Sou desenvolvedora back end júnior, com experiência em Java, Spring Boot, SQL e microsserviços, além de conhecimentos básicos em desenvolvimento web. Nos últimos dois anos, tenho me dedicado intensamente aos estudos, com foco em engenharia de software, buscando constantemente aprimorar minhas habilidades e me adaptar às demandas do mercado digital. Estou empenhada em melhorar minha performance e contribuir positivamente com futuros colegas de equipe.
+<h3> Sou estagiária Full-Stack na Compass UOL e estudante de ADS, com formação em andamento em Pentest Web. Tenho grande interesse em desenvolvimento seguro e busco aprimorar minhas habilidades em back-end, front-end e testes de segurança..
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/larissafernandesbackend/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC"></a>
@@ -32,9 +32,6 @@
 ## Meus status do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaSilvaFernandes&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
 ![Principais Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LarissaSilvaFernandes&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
-
-## Meus status no TryHackMe
-   <img src="https://tryhackme-badges.s3.amazonaws.com/LariF.png" alt="Your Image Badge" />
    
 ## Autora
 - [@LarissaSilvaFernandes](https://github.com/LarissaSilvaFernandes)

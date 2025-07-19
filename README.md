@@ -31,7 +31,6 @@
 
 ## Meus status do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaSilvaFernandes&theme=transparent&bg_color=000&border_color=AA42F7&show_icons=true&icon_color=AA42F7&title_color=AA42F7&text_color=FFF)
-![Principais Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LarissaSilvaFernandes&layout=compact&bg_color=000&border_color=AA42F7&title_color=AA42F7&text_color=FFF)
    
 ## Autora
 - [@LarissaSilvaFernandes](https://github.com/LarissaSilvaFernandes)

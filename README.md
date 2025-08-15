@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ##  Sobre mim
-<h3> Sou estagiária Full-Stack na Compass UOL e estudante de ADS, com formação em andamento em Pentest Web. Tenho grande interesse em desenvolvimento seguro e busco aprimorar minhas habilidades em back-end, front-end e testes de segurança..
+<h3> Sou estagiária Full-Stack na Compass UOL e estudante de ADS. Tenho grande interesse em desenvolvimento seguro e busco aprimorar minhas habilidades em back-end, front-end e testes de segurança..
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/larissafernandesbackend/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC"></a>

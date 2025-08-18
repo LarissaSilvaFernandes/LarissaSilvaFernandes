@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ##  Sobre mim
-<h3> Bem-vindo(a) ao meu GitHub! Aqui você encontra um resumo das minhas competências. Meu nome é Larissa Fernandes. Tenho experiência com projetos em Java (11, 17, 21), Spring Boot e Git. Tenho familiaridade com bancos de dados relacionais (MySQL e PostgreSQL) e não relacionais (MongoDB). Além de possuir desenvoltura no ambiente Linux e experiência em projetos ágeis com Scrum, com entregas por sprint. Tenho conhecimentos técnicos em aprimoramento em NestJS, React, TypeScript, JavaScript, HTML5 e CSS3. Para mais detalhes técnico
+<h3> Bem-vindo(a) ao meu GitHub! Aqui você encontra um resumo das minhas competências. Meu nome é Larissa Fernandes. Tenho experiência com projetos em Java (11, 17, 21), Spring Boot e Git. Tenho familiaridade com bancos de dados relacionais (MySQL e PostgreSQL) e não relacionais (MongoDB). Além de possuir desenvoltura no ambiente Linux e experiência em projetos ágeis com Scrum, com entregas por sprint. Tenho conhecimentos técnicos em aprimoramento em NestJS, React, TypeScript, JavaScript, HTML5 e CSS3.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/larissafernandesbackend/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC"></a>

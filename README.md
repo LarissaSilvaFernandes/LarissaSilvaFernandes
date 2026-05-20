@@ -30,15 +30,20 @@ public class LarissaFernandes {
 }
 ```
 
-<p align="left">
-  <img src="https://media1.tenor.com/m/clPun4-Kdu0AAAAd/anime-frieren.gif" alt="profile-icon" align="right" style="width: 21%;">
-</p>
+<table>
+<tr>
+<td width="75%">
 
 **PT-BR** | Desenvolvedora Backend Java com experiência prática em **Spring Boot**, **Microsserviços** e **APIs REST**. Certificada **AWS Cloud Practitioner**. Experiência com Java (11, 17, 21), bancos de dados relacionais e NoSQL, ambiente Linux e metodologias ágeis. Preferências como **Backend Java Developer** (Estágio / Trainee / Júnior).
 
 **EN** | Java Backend Developer with hands-on experience in **Spring Boot**, **Microservices**, and **REST APIs**. **AWS Certified Cloud Practitioner**. Skilled in Java (11, 17, 21), relational & NoSQL databases, Linux, and Agile/Scrum. Preferences like **Backend Java Developer** (Intern / Trainee / Junior).
 
-<br clear="right"/>
+</td>
+<td width="25%" align="center">
+<img src="./assets/frieren.gif" alt="profile-icon" width="180">
+</td>
+</tr>
+</table>
 
 ---
 <p align="left">
@@ -80,11 +85,11 @@ public class LarissaFernandes {
 ### 🏅 Badges & Certifications
 
 <div align="left">
-  <a href="https://www.credly.com/badges/00432bcc-c58c-481f-aa98-7dc181ef2278/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="120"></a>
+  <a href="https://www.credly.com/badges/00432bcc-c58c-481f-aa98-7dc181ef2278/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" height="130"></a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/eed649a7-fc84-4312-bb55-466b93d318c3/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco" height="100" width="120"></a>
+  <a href="https://www.credly.com/badges/eed649a7-fc84-4312-bb55-466b93d318c3/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco" width="110" height="120"></a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/d8a91894-a760-4610-93ca-9f35a71b64d5/public_url"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" height="140" width="140" align="top" ></a>
+  <a href="https://www.credly.com/badges/d8a91894-a760-4610-93ca-9f35a71b64d5/public_url"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="150" height="130"></a>
 </div>
 
 ### 🚀 Featured Projects
@@ -176,7 +181,7 @@ public class LarissaFernandes {
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/0b74713fd0b587005a2684e1a029edea/48dbc396ef17b237-9b/s540x810/3b2a3fd5e11d7923e28ebfd15d0a9bc439e16432.gif" width="100%" height="380" alt="Daenerys Dragon Animation"/>
+<img src="./assets/daenerys_targaryen.gif" width="100%" alt="Daenerys Dragon Animation"/>
 
 > “I will do what queens do. I will rule.”
 > — Daenerys Targaryen
@@ -220,7 +225,7 @@ public class LarissaFernandes {
   ╔══════════════════════════════════════════════════════╗
   ║  README designed by Larissa Fernandes               ║
   ║  github.com/LarissaSilvaFernandes                   ║
-  ║  © 2025 - All rights reserved                       ║
+  ║  © 2026 - All rights reserved                       ║
   ║  Do not copy without permission                     ║
   ╚══════════════════════════════════════════════════════╝
 -->

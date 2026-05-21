@@ -204,7 +204,7 @@ public class LarissaFernandes {
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/larissafernandesbackend/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/larissadasilvafernandes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ## Perfil em outras plataformas | Profile on other platforms
 

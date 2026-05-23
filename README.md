@@ -210,7 +210,8 @@ public class LarissaFernandes {
 
 <div align="left">
 <a href="https://medium.com/@larissa-fernandes" target="_blank"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=oracle&logoColor=darkgreen" alt="Medium"/></a>
-<a href="https://g.dev/larissafernandes" target="_blank"><img src="https://img.shields.io/badge/Google Developer Platform-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/></a>
+<a href="https://g.dev/larissafernandes" target="_blank"><img src="https://img.shields.io/badge/Google Developer Program-DEV-000000?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev"/></a>
+<a href="https://skillsprofile.skillbuilder.aws/user/larissafernandes/certification-badges"><img src="https://img.shields.io/badge/skillbuilder-aws-000000?style=for-the-badge&logo=oracle&logoColor=darkgreen" alt="skillbuilder"/></a>
 <a href="https://cursos.alura.com.br/emprega-one/profile/l-fernandes0308" target="_blank"><img src="https://img.shields.io/badge/Oracle Next Education-ONE/Alura-000000?style=for-the-badge&logo=oracle&logoColor=darkgreen" alt="Oracle Next Education-ONE/Alura"/></a>
 </div>
 
